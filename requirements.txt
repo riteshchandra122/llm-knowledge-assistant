@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+langchain
+transformers 
+sentence-transformers 
+faiss-cpu
